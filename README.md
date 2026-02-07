@@ -6,7 +6,7 @@
 * **Romolo Deffereria** - [Profilo GitHub](https://github.com/RomoloDef)
 * **Matteo Geusa** - [Profilo GitHub](https://github.com/MatteoGeusa)
 * **Alessandro Ferri** - [Profilo GitHub](https://github.com/alef-dev16)
-* **Francesco Bocchi** - [Profilo GitHub](https://github.com/Frab0)
+* **Francesco Bocchi** - [Profilo GitHub](https://github.com/frabocchi)
 * **Antonio Bisiach** - [Profilo GitHub](https://github.com/Ant-thony)
 
 ---
